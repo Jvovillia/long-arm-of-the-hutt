@@ -1,0 +1,24 @@
+{
+
+"name": "long-arm-of-the-hutt",
+
+"title": "Long Arm of the Hutt",
+
+"description": "A level 2 converted adventure for SW5e",
+
+"author": "Fantasy Flight Games & others",
+
+"version": "1.0.1",
+
+"minimumCoreVersion": "0.8.1",
+
+"compatibleCoreVersion": "9",
+
+"download": "https://github.com/Jvovillia/long-arm-of-the-hutt_foundryvtt",
+
+"manifest": "https://github.com/Jvovillia/long-arm-of-the-hutt/world.json",
+
+"download": "https://drive.google.com/uc?export=download&id=15nSj0UisjOYYqmosPOzjEF2s10yyd2k3",
+"manifest": "https://raw.githubusercontent.com/Jvovillia/long-arm-of-the-hutt/main/module.json"
+
+}
